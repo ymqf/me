@@ -3,7 +3,7 @@ export default {
         title: "你好，我是",
         me: [
             "龙金升",
-            "数码爱好者",
+            "高中生",
             "计算机狂热粉"
         ],
         bg: "./images/bg.jpg",
@@ -38,35 +38,35 @@ export default {
      title: "关于我",
      laozi: {
          img: "./images/55.png",
-         content: "<span></span>我叫<b>龙金升</b>，今年19岁，来自河北邯郸 是一名普通，<b>大学生</b>；<br /><span>性格随和 INFP正在努力像E人转变当中</span><b>计算机、摄影、阅读</b>，是我的兴趣<也喜欢花时间折腾一切新技术新领域。<span></span><br>人生精进ing...</br> 正在努力变的更优秀,也期待能认识更多有趣的人. <br>"
+         content: "<span></span>我叫<b>龙金升</b>，今年16岁，是一名普通，<b>高中生</b>；<br /><span></span><b>计算机</b>，是我的兴趣<喜欢花时间鼓捣一些乱七八糟的东西,目前还没有系统化的学习编程语言一直在拖延当中.....<span></span><br>每一天都很无聊,不喜不悲大概就是我最好的心情咯。</br> 正在努力考上好大学,期待能认识更多有趣的人. <br>别看旁边的图片~"
      },
      ability: [{
-             title: "野心",
+             title: "动漫",
              icon: "fa-html5",
-             subTitle: "世界不死，理想不灭！",
+             subTitle: "jojo ,人或者就是为了麻衣学姐！！！",
              color: "#ff4757",
              bfb: "80%"
          },
          {
              icon: "fa-code",
-             title: "安全感",
-             subTitle: "手里有钱就安全qwq.",
+             title: "游戏",
+             subTitle: "游戏什么的，我不知道该干什么.",
              color: "#ffa502",
              bfb: "20%"
          },
          {
              icon: "fa-linux",
-             title: "摄影",
-             subTitle: "风景 人像摄影",
+             title: "平凡",
+             subTitle: "没有人想在年少时成为一个普通人",
              color: "#1e90ff",
-             bfb: "30%"
+             bfb: "90%"
          },
          {
              icon: "fa-photo",
-             title: "阅读",
-             subTitle: "人生中有时候无意间拿起一本书就会完全改变之后的人生",
+             title: "幼稚",
+             subTitle: "嗯  貌似没错",
              color: "#2ed573",
-             bfb: "50%"
+             bfb: "80%"
          }
      ],
      loadMore: {
@@ -75,9 +75,9 @@ export default {
      }
  },
     project: {
-        title: "我的经历",
+        title: "我的项目",
         list: [{
-                name: "表白墙网站/小程序",
+                name: "峰峰二中表白墙",
                 text: "表白墙！",
                 nb: [
                     "什么不会"
@@ -110,56 +110,56 @@ export default {
             },
             {
                 name: "个人博客",
-                text: "记录美好生活！分享日常读书感悟.",
+                text: "记录美好生活！",
                 nb: [
-                    "什么也不欢迎各位访问我的blog."
+                    "什么也不会"
                 ],
-                url: "http://bloog.52yimen.cn/",
+                url: "http://www.52yimen.cn/",
                 img: "./images/tucao3.png",
                 content: `<h2>项目类型</h2>
-                <p>blog从高一就开始研究但慢慢的发现我好像并没有什么文采，也并没有输出感悟的能力，写出来的东西常常自己都不想看，于是一拖再拖一直没用做QWQ</p>
-                <h2></h2>
+                <p>练手项目</p>
+                <h2>开发周期</h2>
                 <p>很长时间</p>
                 <h2>开发工具</h2>
                 <p>博客框架Typecho</p>
                 <h2>项目背景</h2>
-                <p>记录日常青春感悟，请移步我的blog参观吧！,</p>
+                <p>记录下青春,</p>
                 <h2>模块介绍</h2>
 				<li><img src="./images/5456.png"></li>
                <p>发布文章</p>
 			   <p>主题</p>
                 <h2>项目预览</h2>
                 <ul>
-                    <li><img src="./images/wx.jpg"></li>
+                    
                     <li><img src="./images/tucao3.png"></li>
                     <li><img src="./images/tucao4.png"></li>
                 </ul>
-                <h2>/h2>
-                <p></p>
-                <p></p>
-                <p></p>`,
+                <h2>项目职责</h2>
+                <p>1、代码搬运；</p>
+                <p>2、1；</p>
+                <p>3、1；</p>`,
             },
             {
-                name: "表白墙小程序",
-                text: "微信搜索:表白墙",
+                name: "峰峰二中表白墙小程序",
+                text: "微信搜索:峰峰二中表白墙",
                 nb: [
                     "Winform", "SQLServer", "C#"
                 ],
-                url: "http://me.52yimen.cn/",
+                url: "http://www.52yimen.cn/",
                 img: "./images/bg2.jpg",
                 content: `<h2>项目类型</h2>
                 <p>练手项目</p>
                 <h2>开发周期</h2>
-                <p>微信搜索:表白墙!,</p>
+                <p>微信搜索:峰峰二中表白墙!,</p>
                 <h2>开发工具</h2>
                 <p>Visual Studio、SQLServer、Git</p>
                 <h2>项目背景</h2>
-                <p>表白墙</p>
+                <p>微信搜索:峰峰二中表白墙</p>
                 <h2>模块介绍</h2>
-                <p>1、	表白墙</p>
+                <p>1、	微信搜索:峰峰二中表白墙</p>
              
                 <h2>项目技术</h2>
-                <p>1、中表白墙；</p>
+                <p>1、	微信搜索:峰峰二中表白墙；</p>
                 <h2>项目预览</h2>
                 <ul>
                     <li><img src="./images/xcl1.png"></li>
@@ -168,10 +168,10 @@ export default {
                 </ul>
                 <h2>项目职责</h2>
                 
-                <p>4、；</p>`,
+                <p>4、空!；</p>`,
             },
             {
-                name: "影视网",
+                name: "峰峰二中影视网",
                 text: "免费看全网vip电影",
                 nb: [
                     "Gitee Issues", "Vue", "Vue", "Linux", "SEO", "CDN"
@@ -198,7 +198,7 @@ export default {
                 </ul>`,
             },
             {
-                name: "阅读经历",
+                name: "待添加",
                 text: "空",
                 nb: [
                     "Vue", "Vue", "Linux", "SEO", "CDN"
@@ -291,7 +291,7 @@ export default {
             },
             {
                 name: "邮箱",
-                context: "longzong@88.com"
+                context: "574686795@qq.com"
             },
             {
                 name: "QQ",
@@ -299,7 +299,7 @@ export default {
             },
             {
                 name: "微信",
-                context: "yimeng_7777"
+                context: "我不想告诉你"
             }
         ]
     }
