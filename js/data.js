@@ -38,7 +38,7 @@ export default {
      title: "关于我",
      laozi: {
          img: "./images/55.png",
-         content: "<span></span>我叫<b>龙金升</b>，今年19岁，来自河北邯郸 是一名普通，<b>大学生</b>；<br /><span>性格随和 INFP正在努力像E人转变当中</span><b>计算机、摄影、阅读</b>，是我的兴趣<也喜欢花时间折腾一切新技术新领域。<span></span><br>人生精进ing...</br> 正在努力变的更优秀,也期待能认识更多有趣的人. <br>"
+         content: "<span></span>我叫<b>龙金升</b>，今年19岁，来自河北邯郸 是一名普通，<b>大学生</b>；<br /><span>性格随和 INFP正在努力像E人转变当中</span><b>计算机、摄影、阅读，是我的兴趣也喜欢花时间折腾一切新技术新领域。</b><span>1</span><br>人生精进ing...</br> <br>正在努力变的更优秀,也期待能认识更多有趣的人. </br>"
      },
      ability: [{
              title: "野心",
